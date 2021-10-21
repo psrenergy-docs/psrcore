@@ -1,9 +1,5 @@
-title: "PSRIO"
+title: "PSRCore"
 remote_theme: pmarsceill/just-the-docs
-
-# aux_links:
-#   "PSRIO Scripts on GitHub":
-#     - "//github.com/psrenergy/psrio-scripts"
 
 # port: 4001
 
@@ -14,4 +10,6 @@ ga_tracking: G-0EBJYPVP12
 ga_tracking_anonymize_ip: true
 exclude: [node_modules]
 
+back_to_top: true
+back_to_top_text: "Back to top"
 footer_content: "Copyright &copy; 2021 PSR - <a href='https://www.psr-inc.com' target='_blank'>psr-inc.com</a>"
