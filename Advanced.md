@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Overview
-nav_order: 2
+title: How it works
+nav_order: 6
 ---
 
 ## Overview
