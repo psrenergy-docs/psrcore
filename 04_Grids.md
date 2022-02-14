@@ -13,18 +13,18 @@ An example grid is shown in the picture below. The numbers in the image are asso
 </div>
 
 ### 1. Add
-Adds a single line to the table.
+Adds a single line(row) to the table.
 
 ### 2. Save
 Save any changes made to the table. The interface will ask if the user wants to save before leaving the page, in case there are any unsaved changes.
 
 ### 3. Export
-Allows the user to save the data to a local csv file.
+Allows the user to save the data to a local Excel file.
 
 ### 4. Import
-Allows the user to load data from a local csv file into the system.
+Allows the user to load data from a local Excel file into the system.
 
-### 5. Atributes
+### 5. Attributes
 Name of the attribute for the corresponding column. When clicked, it's possible to reorder lines in decreasing or increasing order, depending on the attribute specified. Most grids contain an "Identification" attribute, which must be unique for every entry.
 
 ### 6. Atribute options
