@@ -16,7 +16,7 @@ The system will present a login dialog where the user should inform their access
     <img src="images/login.png"/>
 </div>
 
-The [Password Recovery](Password.html) tab contains more information on how to recover your password.
+The [Password Recovery](05_Password.html) tab contains more information on how to recover your password.
 
 ## The web interface
 
@@ -29,15 +29,15 @@ A few key components can be seen, and are described in more detail below.
 
 ### 1. Quick access menu
 
-Used for pages that are frequently accessed. A more in-depth description is given under [Navigation](Navigation.html)
+Used for pages that are frequently accessed. A more in-depth description is given under [Navigation](03_Navigation.html).
 
 ### 2. Main menu
 
-Main [navigation](Navigation.html) component, to access other application screens.
+Main [navigation](03_Navigation.html) component, to access other application screens.
 
 ### 3. Upper bar
 
-The application is study oriented, so some screens will require a study to be selected.
+Some screens will show a dropdown at the upper bar. This indicates that the screen in question will contain data that is specific to the option selected there, and some attention must be given so that the wrong option is not selected once changes are made.
 
 ### 4. Contents
 
